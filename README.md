@@ -1,2 +1,3 @@
-# LLoadSOBaseDemo
- AndroidStuido加载SO文件.基础模板
+# Android for Frida Gadget
+
+Frida Gadget 的靶子
